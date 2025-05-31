@@ -1,0 +1,48 @@
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\PlanificadorNutricionalIA.Form1.resources
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.csproj.GenerateResource.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.AssemblyInfoInputs.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.AssemblyInfo.cs
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.csproj.CoreCompileInputs.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\intento2.1.exe
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\intento2.1.deps.json
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\intento2.1.runtimeconfig.json
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\intento2.1.pdb
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\refint\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.pdb
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.genruntimeconfig.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\ref\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.csproj.AssemblyReference.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\intento2.1\obj\Debug\net9.0-windows\intento2.1.csproj.Up2Date
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\intento2.1.exe
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\intento2.1.deps.json
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\intento2.1.runtimeconfig.json
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\intento2.1.pdb
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.csproj.AssemblyReference.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\PlanificadorNutricionalIA.Form1.resources
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.csproj.GenerateResource.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.AssemblyInfoInputs.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.AssemblyInfo.cs
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.csproj.CoreCompileInputs.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.csproj.Up2Date
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\refint\intento2.1.dll
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.pdb
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\intento2.1.genruntimeconfig.cache
+C:\Users\Efrai\Desktop\video de proyecto 1 programacion\PROYECTO FINAL PROGRAMACION\obj\Debug\net9.0-windows\ref\intento2.1.dll
